@@ -1,0 +1,76 @@
+[0m[0KMicrosoft Windows [Version 10.0.18363.752][0K[?25l
+(c) 2019 Microsoft Corporation. All rights reserved.[0K
+[0K
+C:\Users\sean.wilson\Documents\R\Googlesheets>[0K[?25h[?25l[2A[0K
+(c) 2019 Microsoft Corporation. All right[0Ks
+ reserved.[0K
+[0K
+C:\Users\sean.wilson\Documents\R\Googlesh[0Ke
+ets>[0K[?25h[?25l[5A                                                         reserved.[0K
+[0K
+C:\Users\sean.wilson\Documents\R\Googlesheets>[0K
+[0K
+[0K
+[0K[3A[47G[?25h[?25l[2A                                                    reserved.[0K
+[0K
+C:\Users\sean.wilson\Documents\R\Googlesheets>[0K
+[0K
+[0K
+[0K[3A[47G[?25h[?25lC:\Users\sean.wilson\Documents\R\Googlesheets>g[0K
+[0K
+[0K
+[0K[3A[48G[?25h[?25lC:\Users\sean.wilson\Documents\R\Googlesheets>gi[0K
+[0K
+[0K
+[0K[3A[49G[?25h[?25lC:\Users\sean.wilson\Documents\R\Googlesheets>git[0K
+[0K
+[0K
+[0K[3A[50G[?25h[51G[50G[?25lC:\Users\sean.wilson\Documents\R\Googlesheets>gi[0K
+[0K
+[0K
+[0K[3A[49G[?25h[?25lC:\Users\sean.wilson\Documents\R\Googlesheets>g[0K
+[0K
+[0K
+[0K[3A[48G[?25h[?25lC:\Users\sean.wilson\Documents\R\Googlesheets>[0K
+[0K
+[0K
+[0K[3A[47G[?25h[?25lC:\Users\sean.wilson\Documents\R\Googlesheets>r[0K
+[0K
+[0K
+[0K[3A[48G[?25h[?25lC:\Users\sean.wilson\Documents\R\Googlesheets>re[0K
+[0K
+[0K
+[0K[3A[49G[?25h[?25lC:\Users\sean.wilson\Documents\R\Googlesheets>rem[0K
+[0K
+[0K
+[0K[3A[50G[?25h[?25lC:\Users\sean.wilson\Documents\R\Googlesheets>remo[0K
+[0K
+[0K
+[0K[3A[51G[?25h[?25lC:\Users\sean.wilson\Documents\R\Googlesheets>remot[0K
+[0K
+[0K
+[0K[3A[52G[?25h[?25lC:\Users\sean.wilson\Documents\R\Googlesheets>remote[0K
+[0K
+[0K
+[0K[3A[53G[?25h[54G[?25lC:\Users\sean.wilson\Documents\R\Googlesheets>remote -[0K
+[0K
+[0K
+[0K[3A[55G[?25h[?25lC:\Users\sean.wilson\Documents\R\Googlesheets>remote -v[0K
+[0K
+[0K
+[0K[3A[56G[?25h[?25l
+'remote' is not recognized as an internal or external command,[0K
+operable program or batch file.[0K
+[0K
+C:\Users\sean.wilson\Documents\R\Googlesheets>[0K[?25hg[0Ki[0Kt[0K[51G[?25lC:\Users\sean.wilson\Documents\R\Googlesheets>git i[0K[?25hn[0Ki[0Kt[0K]0;  - git  init[?25l
+[0K[?25h]0; Initialized empty Git repository in C:/Users/sean.wilson/Documents/R/Googl[0Ke[?25l
+sheets/.git/[0K
+[0K
+C:\Users\sean.wilson\Documents\R\Googlesheets>[0K[?25hg[0Ki[0Kt[0K[51G[?25lC:\Users\sean.wilson\Documents\R\Googlesheets>git a[0K[?25hd[0Kd[0K[55G[?25lC:\Users\sean.wilson\Documents\R\Googlesheets>git add R[0K[?25hE[0KA[0KD[0KM[0KE[0K.[0Km[0Kd[0K]0;  - git  add README.md[?25l
+[0K[?25hfatal: pathspec 'README.md' did not match any files[0K[?25l
+[0K[?25h]0; [?25l
+C:\Users\sean.wilson\Documents\R\Googlesheets>[0K[?25hg[0Ki[0Kt[0K[51G[?25lC:\Users\sean.wilson\Documents\R\Googlesheets>git a[0K[?25hd[0Kd[0K[?25lC:\Users\sean.wilson\Documents\R\Googlesheets>git ad[0K[?25h[?25lC:\Users\sean.wilson\Documents\R\Googlesheets>git a[0K[?25h[?25lC:\Users\sean.wilson\Documents\R\Googlesheets>git[0K[51G[?25h[50G[?25lC:\Users\sean.wilson\Documents\R\Googlesheets>gi[0K[?25h[?25lC:\Users\sean.wilson\Documents\R\Googlesheets>g[0K[?25h[?25lC:\Users\sean.wilson\Documents\R\Googlesheets>[0K[?25hc[0K[?25lC:\Users\sean.wilson\Documents\R\Googlesheets>[0K[?25hm[0K[?25lC:\Users\sean.wilson\Documents\R\Googlesheets>[0K[?25ht[0Ko[0Ku[0Kc[0Kh[0K[53G[?25lC:\Users\sean.wilson\Documents\R\Googlesheets>touch R[0K[?25hE[0KA[0KD[0KM[0KE[0K.[0Km[0Kd[0K[?25l
+[0K[?25h'touch' is not recognized as an internal or external command,[0K[?25l
+operable program or batch file.[0K
+[0K
+C:\Users\sean.wilson\Documents\R\Googlesheets>[0K[?25hg[0Ki[0Kt[0K[51G[?25lC:\Users\sean.wilson\Documents\R\Googlesheets>git a[0K[?25hd[0Kd[0K[55G[?25lC:\Users\sean.wilson\Documents\R\Googlesheets>git add -[0K[?25h-[0Ka[0Kl[0Kl[0K
